@@ -1,0 +1,5 @@
+def greet():
+    print("Hello, this is a contribution from the forked repo!")
+
+if __name__ == "__main__":
+    greet()]
