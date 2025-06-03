@@ -1,0 +1,7 @@
+document.addEventListener("DOMContentLoaded", function () {
+    const statusBox = document.getElementById("status-box");
+    if (statusBox) {
+        statusBox.innerText = "Welcome back to SocialBook!";
+        statusBox.style.color = "green";
+    }
+});
